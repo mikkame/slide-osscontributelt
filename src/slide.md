@@ -41,7 +41,45 @@ mikkam
 ---
 
 # 日本語でやりとりできる！
-
+<!--
 私がお手伝いさせていただいたOSSはほとんど日本語でやりとり可能です！
 これなら、英語わからん！でもなんとかなる！
+-->
+
+# Let's Contributeの紹介
+
+---
+
+# Issue/PRまってます！
+
+---
+
+# 話はかわるけど
+
+---
+
+# 実はこのスライドもOSS
+
+---
+
+# [mikkame/reveal-pon](https://github.com/mikkame/reveal-pon)
+
+- GitHub Template Repository
+- GitHub Actions
+- GitHub Pages
+
+---
+
+# GitHubのエコシステムに乗ろう！
+
+覚えると仕事でもOSSでも便利！
+
+---
+
+<!-- 時間があまったら↓ -->
+# OSSするといい事
+
+<!--
+Findy/Laprasのスコアがあがる！etc
+-->
 
