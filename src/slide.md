@@ -1,11 +1,13 @@
 # OSSコントリビュータのIssueの探し方
-mikkam
+mikkae
 
 ---
 
 # 自己紹介
 
-- [ ] TODO
+- mikkame(みっかめ)です！
+- 兼業フリーランスをしています。
+- 喋るのが下手です。どもったらごめんなさい
 
 ---
 
@@ -41,14 +43,29 @@ mikkam
 ---
 
 # 日本語でやりとりできる！
-<!--
-私がお手伝いさせていただいたOSSはほとんど日本語でやりとり可能です！
-これなら、英語わからん！でもなんとかなる！
--->
+
 
 # Let's Contributeの紹介
 
+![スクリーンショット 2021-02-01 19 33 37](https://user-images.githubusercontent.com/13947046/106447106-712bde00-64c4-11eb-9425-3fe0d77ec675.png)
+
 ---
+
+# GitHub APIを駆使して日本語っぽいIssueを集めました
+
+---
+
+# 実装？
+
+---
+
+# [mikkame/lets-contribute](https://github.com/mikkame/lets-contribute)
+
+で見れるよ！
+
+---
+
+
 
 # Issue/PRまってます！
 
@@ -76,10 +93,7 @@ mikkam
 
 ---
 
-<!-- 時間があまったら↓ -->
-# OSSするといい事
+時間があまったら
 
-<!--
-Findy/Laprasのスコアがあがる！etc
--->
+# OSSするといい事を話そう
 
