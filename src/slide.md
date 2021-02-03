@@ -1,5 +1,5 @@
 # OSSコントリビュータのIssueの探し方
-mikkae
+mikkame
 
 ---
 
