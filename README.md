@@ -1,4 +1,6 @@
-# [OSS LT会 -集まれコミッター・コントリビューター【初心者の方・やっていきも大歓迎】](https://rakus.connpass.com/event/200604/) mikkameの発表資料
+# [OSS LT会 -集まれコミッター・コントリビューター【初心者の方・やっていきも大歓迎】](https://rakus.connpass.com/event/200604/)
+
+mikkameの発表資料
 
 
 
